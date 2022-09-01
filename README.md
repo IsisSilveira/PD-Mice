@@ -11,6 +11,7 @@
 **OBS:** QIIME2 suporta dois tipos de metadata: categórico e numérico - ele deduz que colunas com apenas números são numéricas e as demais são categóricas, sendo *missing data* suportado por ambos os tipos.
 
 5. Para mostrar ao QIIME qual é o tipo da coluna, usar **#q2:types**
+
 **OBS:** usar Keemei para validar metadata
 
 
