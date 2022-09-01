@@ -7,9 +7,9 @@
 1. Download tsv
 2. Transformar artefato para visualização .qzv
 3. Visualizar no QIIME2 View
-**OBS:** QIIME2 suporta dois tipos de metadata: categórico e numérico - ele deduz que colunas com apenas números são numéricas e as demais são categóricas, sendo *missing data* suportado por ambos os tipos.
+    1.**OBS:** QIIME2 suporta dois tipos de metadata: categórico e numérico - ele deduz que colunas com apenas números são numéricas e as demais são categóricas, sendo *missing data* suportado por ambos os tipos.
 5. Para mostrar ao QIIME qual é o tipo da coluna, usar **#q2:types**
-**OBS:** usar Keemei para validar metadata
+    1.**OBS:** usar Keemei para validar metadata
 
 
 #### PD Mice: Importing demultiplexed sequences - Como importar com manifest file, usar `demux summarize` e visualizar os dados
